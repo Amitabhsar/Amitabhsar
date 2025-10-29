@@ -23,6 +23,6 @@ Skills: Data Science / Python / Machine Learning / SQL / Database
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Amitabhsar/contributions?format=svg&private=false)  
 
-![GitHub metrics](https://metrics.lecoq.io/Amitabhsar?template=classic)
+![GitHub metrics](https://metrics.lecoq.io/Amitabhsar?template=classic&followup=1&achievements=1&base.indepth=false)
 
 
