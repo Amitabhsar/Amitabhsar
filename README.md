@@ -1,5 +1,4 @@
-![Data Science & ML Professional](https://www.linkedin.com/in/amitabh-sarkar/overlay/background-image/)
-
+<img width="4950" height="1238" alt="Image" src="https://github.com/user-attachments/assets/9f5d7174-5d55-4dcf-9c00-7f13e50048c8" />
 ### Hi there 👋, I am Amitabh Sarkar
 #### Data Science & ML Professional
 
